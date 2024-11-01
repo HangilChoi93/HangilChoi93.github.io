@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. KAIST. Daejeon. Republic of Korea.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 20231018_반명함.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     #<p>555 your office number</p>
